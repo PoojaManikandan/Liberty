@@ -1,0 +1,30 @@
+
+div.logi{
+	border: 4px solid black;
+	float: center;
+	margin: 100px;
+	padding: 10px 80px;
+	opacity: 0.6;
+	background-color: #ffffff;
+	filter: alpha(opacity=60);
+}
+div.log p{
+	margin: 5%;
+	color: #000000;
+	font-weight: bold;
+}
+div.topp{
+	text-align: center;
+	color: rgb(1, 56, 55);
+}
+.bu{
+	border-radius: 12px;
+	background-color: rgb(98, 181, 177);
+	color: white;
+	border: 2px solid black;
+	transition-duration: 0.4s;
+}
+.bu:hover{
+	background-color: white;
+	color: rgb(98, 181, 177);
+}
